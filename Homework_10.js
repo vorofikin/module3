@@ -1,5 +1,6 @@
 function CarName (name){
     this.name = name;
+    
 }
 
 const car1 = new CarName('Nissan');
